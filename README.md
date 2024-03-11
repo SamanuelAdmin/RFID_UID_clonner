@@ -51,7 +51,7 @@ A list of necessary components:
 <strong>Done!</strong> Now you are ready to flash Arduino Mega.
 
 <hr>
-
+<br>
 
 <h2 id="software">Setup software</h2>
 At the begin you need to download and setup <a href="#dependencies">Dependencies</a> to your Arduino IDE (<a href="https://www.arduino.cc/en/software">you can download it here</a>) via this guide:
@@ -60,9 +60,21 @@ At the begin you need to download and setup <a href="#dependencies">Dependencies
   </a>
 <br>
 Then download code from this <a href="https://github.com/SamanuelAdmin/RFID_UID_clonner/">repository</a> using
-```bash
+
+```ruby
 git clone https://github.com/SamanuelAdmin/RFID_UID_clonner/
-``` command or just press <i>download</i> button.
+```
+command or just press 
+`
+download
+`
+button and open <i>.ino</i> file. After that press 
+`
+"upload"
+`
+button and wait for a minute.
+After all this steps you can see demo title on the screen and then your clonner ready to work.
+
 <hr>
 
 
