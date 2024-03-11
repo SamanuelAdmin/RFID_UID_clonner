@@ -15,6 +15,7 @@
 
 <br><hr><br>
 
+<h5>Menu:</h5>
 <ul>
   <li><a href="#howtocreate"><i>How to create the clonner?</i></a></li>
   <li><a href="#software"><i>Setup software</i></a></li>
@@ -75,8 +76,26 @@ button and open <i>.ino</i> file. After that press
 button and wait for a minute.
 After all this steps you can see demo title on the screen and then your clonner ready to work.
 
-<hr>
+<hr><br>
 
 
 <h2 id="dependencies">Dependencies</h2>
+<i>NOTE!</i> You can find this all in 
+
+`
+Sketch -> Include Library -> Manage Libraries... -> Search
+`
+
+<ul>
+  <li>LiquidCrystal (for LCD1602 display)</li>
+  <li>SPI</li>
+  <li>MFRC522 (for RFID module)</li>
+</ul>
+
 <hr>
+<h3>Support</h3>
+<p>If <i></i>you enjoy my projects</i> or that <i>was helpful</i>, you can support me by donation.</p>
+
+`
+Visa: 4441 1144 6743 1589
+`
