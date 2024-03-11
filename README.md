@@ -33,9 +33,10 @@ A list of necessary components:
   <a href="https://store.arduino.cc/collections/cables-wires/products/10-jumper-wires-150mm-male?selectedStore=eu"><li>Some wire (2 or more colors optionaly)</li></a>
   <a href="https://diyshop.com.ua/en/rfid-13-56-mgc-klyuch-dostupa-dlya-arduino"><li>Some RFID keys on 13.56MHz (optionaly)</li></a>
 </ul>
-<strong>NOTE! Be shure that key has a rewrite option!</strong>
+<i>NOTE! Be shure that key has a rewrite option!</i>
 
-<br>
+<br><br>
+
 2. Assembly devise using this video-instructions:
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=hxQYIwdZRng" target="_blank" style="margin-right: 20px;">
@@ -46,10 +47,22 @@ A list of necessary components:
   </a>
 </div>
 
+<br>
+<strong>Done!</strong> Now you are ready to flash Arduino Mega.
+
 <hr>
 
 
 <h2 id="software">Setup software</h2>
+At the begin you need to download and setup <a href="#dependencies">Dependencies</a> to your Arduino IDE (<a href="https://www.arduino.cc/en/software">you can download it here</a>) via this guide:
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=d5LU1ig4BQQ" target="_blank">
+    <img src="http://img.youtube.com/vi/d5LU1ig4BQQ/0.jpg" alt="How to connect LCD shield to Arduino Mega 2560" width="280" border="10"/>
+  </a>
+<br>
+Then download code from this <a href="https://github.com/SamanuelAdmin/RFID_UID_clonner/">repository</a> using
+```bash
+git clone https://github.com/SamanuelAdmin/RFID_UID_clonner/
+``` command or just press <i>download</i> button.
 <hr>
 
 
