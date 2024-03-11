@@ -18,7 +18,7 @@
 <ul>
   <li><a href="#howtocreate"><i>How to create the clonner?</i></a></li>
   <li><a href="#software"><i>Setup software</i></a></li>
-  <li><a href="dependencies"><i>Dependencies</i></a></li>
+  <li><a href="#dependencies"><i>Dependencies</i></a></li>
 </ul>
 
 <br><br>
