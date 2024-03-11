@@ -9,13 +9,27 @@
   <img src="https://github.com/SamanuelAdmin/RFID_UID_clonner/assets/68198268/7cc78307-5e91-4f2e-9768-89037b28b278" style="height: 200px;">
 </div>
 
+<br>
+<p><strong>NOTE</strong>  <i>This project can be used only for keys, works on 13.56MHz.</i> Keys with frequency of 120KHz <i>wont be recognized.</i></p>
+<img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS30ictxFUmfpxduYEQWQ9E88uDLUw7sAt3VLsWk_P7lRpZlMc4gp9RNmZY_3RIRN93SMkj19ISPd4DptM8oq12W7N-XzM7Kd6uCih38b6ILkZ1MebmKY8d-g&usqp=CAE" style="height: 250px">
+
 <br><hr><br>
 
 <ul>
-  <li><a><strong>How to create the clonner?</strong></a></li>
-  <li><a><strong>Setup software</strong></a></li>
-  <li><a><strong>Dependencies</strong></a></li>
+  <li><a href="#howtocreate"><i>How to create the clonner?</i></a></li>
+  <li><a href="#software"><i>Setup software</i></a></li>
+  <li><a href="dependencies"><i>Dependencies</i></a></li>
 </ul>
 
+<br><br>
 
-<h2>How to create the clonner?</h2>
+<h2 id="howtocreate">How to create the clonner?</h2>
+<hr>
+
+
+<h2 id="software">Setup software</h2>
+<hr>
+
+
+<h2 id="dependencies">Dependencies</h2>
+<hr>
