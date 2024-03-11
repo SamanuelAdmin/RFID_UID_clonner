@@ -24,7 +24,22 @@
 <br><br>
 
 <h2 id="howtocreate">How to create the clonner?</h2>
-<p>At the first you need to buy some components. Project works on Arduino Mega 2560, for another boards you need to change pins in `define` lines.</p>
+1. At the first you need to buy some components. Project works on Arduino Mega 2560, for another boards you need to change pins in <strong>define</strong> lines. <br><i>But dont use Arduino nano/Arduino uno because they all have only one line of SPI, but this project required two</i> (for lcd1602 keyboard shield and RFID module).
+A list of necessary components:
+<ul>
+  <a href="https://octopart.com/arduino+mega+2560+rev3-arduino-29408153?gad_source=1&gclid=CjwKCAjw17qvBhBrEiwA1rU9w5rPoaRsqKaB0a_GF7Vo3dou3f7pqEIl6K2O2xRefU7d27d8jEA7CxoCC24QAvD_BwE"><li>Arduino Mega</li></a>
+  <a href="https://arduino.ua/prod649-rfid-modyl-rc522-s-kartochkoi-dostypa-dlya-arduino"><li>RC522 (RFID module)</li></a>
+  <a href="https://arduino.ua/prod235-lcd-keypad-shield"><li>LCD1602 Keyboard shield</li></a>
+  <a href="https://store.arduino.cc/collections/cables-wires/products/10-jumper-wires-150mm-male?selectedStore=eu"><li>Some wire (2 or more colors optionaly)</li></a>
+  <a href="https://diyshop.com.ua/en/rfid-13-56-mgc-klyuch-dostupa-dlya-arduino"><li>Some RFID keys on 13.56MHz (optionaly)</li></a>
+</ul>
+<strong>NOTE! Be shure that key has a rewrite option!</strong>
+
+<br>
+2. Assembly devise using this video-instructions:
+<a>How to connect rc522 to Arduino Mega 2560.</a>
+<a>How to connect LCD shield to Arduino Mega 2560.</a>
+
 <hr>
 
 
