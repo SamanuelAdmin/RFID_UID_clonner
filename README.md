@@ -24,6 +24,7 @@
 <br><br>
 
 <h2 id="howtocreate">How to create the clonner?</h2>
+<p>At the first you need to buy some components. Project works on Arduino Mega 2560, for another boards you need to change pins in `define` lines.</p>
 <hr>
 
 
