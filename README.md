@@ -37,8 +37,14 @@ A list of necessary components:
 
 <br>
 2. Assembly devise using this video-instructions:
-<a>How to connect rc522 to Arduino Mega 2560.</a>
-<a>How to connect LCD shield to Arduino Mega 2560.</a>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=hxQYIwdZRng" target="_blank" style="margin-right: 20px;">
+    <img src="http://img.youtube.com/vi/hxQYIwdZRng/0.jpg" alt="How to connect rc522 to Arduino Mega 2560." width="240" height="180" border="10"/>
+  </a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=BVA2aX7NFLs" target="_blank">
+    <img src="http://img.youtube.com/vi/BVA2aX7NFLs/0.jpg" alt="How to connect LCD shield to Arduino Mega 2560" width="240" height="180" border="10"/>
+  </a>
+</div>
 
 <hr>
 
